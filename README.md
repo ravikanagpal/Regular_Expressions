@@ -21,7 +21,7 @@ $ virtualenv venv --python=python3
 $ source venv/bin/activate
 
 # change directory to the repo where we have requirements file
-$ cd f2021-asn1-JauraSeerat/
+$ cd Regular_Expressions/
 
 # Install python dependencies
 $ pip3 install  -r requirements.txt 
